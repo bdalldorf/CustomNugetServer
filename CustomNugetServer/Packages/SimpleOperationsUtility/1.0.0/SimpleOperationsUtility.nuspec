@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SimpleOperationsUtility</id>
+    <version>1.0.0</version>
+    <authors>Bret Dalldorf</authors>
+    <owners>Bret Dalldorf</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://none.com/</licenseUrl>
+    <projectUrl>http://none.com/</projectUrl>
+    <iconUrl>http://none.com/</iconUrl>
+    <description>This library is a test for a Nuget Server. This library is otherwise useless.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+  </metadata>
+</package>
